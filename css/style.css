@@ -257,6 +257,10 @@ a:active {
   color: lightblue;
 }
 
+.c-forms-confirmation-message p {
+    font-family: 'Moon Light';
+}
+
 .c-section {
     color: lightblue;
     text-align: left;
